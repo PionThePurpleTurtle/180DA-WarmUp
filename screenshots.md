@@ -2,4 +2,5 @@
 <img width="1441" height="705" alt="image" src="https://github.com/user-attachments/assets/66db25f0-7b95-425b-89fb-70d0357c99e2" />
 
 Lab 3:
-<img width="2848" height="1800" alt="image" src="https://github.com/user-attachments/assets/03f7196f-c567-4b7c-9043-936db6f7d435" />
+<img width="1173" height="372" alt="image" src="https://github.com/user-attachments/assets/cee206d0-6e82-4ff9-a7fb-71beba73e38c" />
+
